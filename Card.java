@@ -1,7 +1,5 @@
 package domain;
-/**
- * 230201009-230201014 Murat ARSLAN- NUMAN FÝDAN
- */
+
 public class Card {
 	private Type cardType;
 	private int cardValue;
